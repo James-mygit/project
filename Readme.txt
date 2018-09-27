@@ -4,6 +4,7 @@ git 好用
 我觉得git功能更强大
 svn使用更简单
 
+<<<<<<< HEAD
 <<<<<<< .merge_file_LfexN5
 <<<<<<< .merge_file_iKdaPw
 <<<<<<< .merge_file_5CVd4H
@@ -17,3 +18,6 @@ jame --> jame1
 =======
 jame --> jame1
 >>>>>>> .merge_file_soUtN6
+=======
+jame --> jame1
+>>>>>>> dev_Jame
